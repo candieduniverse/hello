@@ -2,6 +2,7 @@ package hello
 
 import "fmt"
 
-func Hello() string {
+// Adding a comment
+func Hello() {
 	fmt.Println("Hello, world!")
 }
